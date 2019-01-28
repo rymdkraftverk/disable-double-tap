@@ -21,7 +21,7 @@ import DisableDoubleTap from "disable-double-tap";
 const Component = () => {
   return (
     <DisableDoubleTap>
-      <div>Double tapping on me won't zoom in!</div>
+      <div>{`Double tapping on me won't zoom in!`}</div>
     </DisableDoubleTap>
   );
 };

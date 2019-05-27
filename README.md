@@ -1,8 +1,10 @@
 # Disable double tap
 
+> Prevent default double tap behavior in iOS Safari
+
 ## What is this?
 
-The default behavior in Safari on iOS is to zoom in whenever the user double taps. This behavior is not always desireable. For example, if you are making a game where the user can tap twice in quick succession. It is not easy to disable though since Apple doesn't want developers to disable this behavior.
+The default behavior in Safari on iOS is to zoom in whenever the user double taps. This behavior is not always desireable. For example, if you are making a game where the user can tap twice in quick succession. It is not obvious how to disable it though, since Apple doesn't want developers to disable this behavior.
 
 This library is a React component that prevents this default behavior.
 

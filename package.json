@@ -4,7 +4,11 @@
   "description": "React component to disable zoom when double tapping on iOS",
   "main": "index.js",
   "author": "rymdkraftverk",
-  "license": "MIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rymdkraftverk/disable-double-tap/issues"
+  },
+  "homepage": "https://github.com/rymdkraftverk/disable-double-tap#readme",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.7.0"
